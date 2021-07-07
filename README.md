@@ -3,7 +3,6 @@ Desafio Loja Virtual
 
 Loja virtual em ASP.NET MVC5 e EF com SQL Server.
 
-![](https://raw.githubusercontent.com/wliradev/loja-virtual/master/docs/view.png)
 # Tecnologias Utilizadas
 - A loja virtual foi desenvolvida em c# na plataforma .net com ASP.NET MVC 5;
 - Versão do .NET Framewrok: 4.7.2;
